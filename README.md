@@ -1,6 +1,6 @@
 ![logo](https://github.com/RinsuAnn/REBanner/blob/main/RE.png)
 <h1 align="center">Hi 👋, I'm Rinsu Ann Easo</h1>
-<h3 align="center">Senior Software Engineer from India</h3>
+<h3 align="center">Lead Senior Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinsuann&label=Profile%20views&color=0e75b6&style=flat" alt="rinsuann" /> </p>
 
